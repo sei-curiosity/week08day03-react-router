@@ -34,7 +34,7 @@ an asynchronous request can be made to the server for any new information.
 
 Changing routes is now nearly instantaneous!
 
-`Data:
+`Data:'
 
 const movies = [
   {
@@ -94,7 +94,7 @@ const movies = [
       }
     ]
   }
-]`
+]
 
 Lets create an app and add the home page to it.
 
