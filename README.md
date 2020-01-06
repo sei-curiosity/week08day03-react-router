@@ -36,6 +36,7 @@ Changing routes is now nearly instantaneous!
 
 `Data:'
 
+```js
 const movies = [
   {
     id: 1,
@@ -95,6 +96,7 @@ const movies = [
     ]
   }
 ]
+```
 
 Lets create an app and add the home page to it.
 
