@@ -34,7 +34,7 @@ an asynchronous request can be made to the server for any new information.
 
 Changing routes is now nearly instantaneous!
 
-`Data:'
+`Data:`
 
 ```js
 const movies = [
