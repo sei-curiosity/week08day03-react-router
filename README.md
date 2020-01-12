@@ -102,6 +102,8 @@ Lets create an app and add the home page to it.
 
 ## Discussion: React Router
 
+https://codesandbox.io/s/quiet-paper-1e2nq
+
 Take a few minutes with your team to explore the code in this repo. Try to make
 some educated guesses about how the behaviour we saw a minutes ago is achieved.
 As you explore, refer to the [React Router docs](https://reacttraining.com/react-router/core/guides/philosophy/).
@@ -200,8 +202,6 @@ Here are some things to keep in mind when working with React Router:
   [`<Switch />`](https://reacttraining.com/react-router/core/api/Switch).
 - `<Route />`s can use either `render=` or `component=` to render JSX, but if we
   need to pass props to a component, we **must** use `render=`.
-
-
 
 ## Lab - Game of Thrones views
 
